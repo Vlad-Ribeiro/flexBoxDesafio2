@@ -67,3 +67,14 @@ h1 {
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.container-exercicioB {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.container-desafio {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+}
